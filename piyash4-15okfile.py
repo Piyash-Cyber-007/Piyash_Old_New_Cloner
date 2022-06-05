@@ -105,13 +105,13 @@ _____ _______     __       _____ _    _
  |_|   |_____|  |_/_/    \_\_____/|_|  |_|                                     
 \033[1;90m══════════════════════════════════════════════════
 \033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mFACEBOOK : PIYASH SARDAR 
-\033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mFB GROUP : BD TERMUX HACKER
+\033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mFB GROUP : I Have No Group Bro
 \033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mGITHUB   : Piyash Fucker
 \033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mWARNING  : PIYASH FUCK YOUR SYSTEM
 \033[1;90m══════════════════════════════════════════════════
     """)
 		print("%s [%s•%s] %sTOOL NAME : %sPIYASH❌ PROO CLONER❌"%(G,R,G,B,G))
-		print("%s [%s•%s] %sVERSION   : %s2.0"%(G,R,G,B,G))
+		print("%s [%s•%s] %sVERSION   : %s4.0"%(G,R,G,B,G))
 		print("%s [%s•%s] %sYOUR KEY  : %s%s"%(G,R,G,B,G,key))
 		print("%s [%s•%s] %sSTATUS    : %s"%(G,R,G,B,stat)) 
 		print("")
